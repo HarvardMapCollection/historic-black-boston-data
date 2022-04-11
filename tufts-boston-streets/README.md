@@ -1,0 +1,1 @@
+Here we have exported spatial data from the [Boston Streets: Mapping Directory Data](https://dca.lib.tufts.edu/features/bostonstreets/about/techdocs/datasets.html) project at Tufts. We have not changed this data at all, other than convert the files from shapefiles using a Massachusetts NAD coordinate system to .geoJSON files in EPSG: 4326. 
