@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "ath-beacon-st",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ADDRESS_ID": "4314", "FMAIN_ID": "1111", "SOURCE_YEA": "1859", "SOURCE": "BD", "BUS_HOME": null, "STREET_NO": "69", "STREET_NAM": "BEACON", "WARD": "4 or 6", "REMARKS": null, "NUMREAL": "69", "Longitude": -71.069851283210866, "Latitude": 42.356086503449099, "Side": "Right" }, "geometry": { "type": "Point", "coordinates": [ -71.069851283210866, 42.356086503449099 ] } },
+{ "type": "Feature", "properties": { "ADDRESS_ID": "8986", "FMAIN_ID": "3144", "SOURCE_YEA": "1856", "SOURCE": "BD", "BUS_HOME": null, "STREET_NO": "81", "STREET_NAM": "BEACON", "WARD": "6 or 9", "REMARKS": null, "NUMREAL": "81", "Longitude": -71.070977877599319, "Latitude": 42.355844308285732, "Side": "Left" }, "geometry": { "type": "Point", "coordinates": [ -71.070977877599319, 42.355844308285732 ] } },
+{ "type": "Feature", "properties": { "ADDRESS_ID": "9784", "FMAIN_ID": "3451", "SOURCE_YEA": "1862", "SOURCE": "BD", "BUS_HOME": null, "STREET_NO": "54", "STREET_NAM": "BEACON", "WARD": "6 or 9", "REMARKS": null, "NUMREAL": "54", "Longitude": -71.067999301331042, "Latitude": 42.35651159766099, "Side": "Right" }, "geometry": { "type": "Point", "coordinates": [ -71.067999301331042, 42.35651159766099 ] } }
+]
+}
