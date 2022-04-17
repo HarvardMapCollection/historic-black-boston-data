@@ -13,4 +13,4 @@ _Distribution of occupations in `prevalent-occupations.csv`._
 
 `athenaeum-joined-cleaned.csv` cleans up the joined table to make the data more compatible with various project tasks. For instance, we removed all records with no address information, split address values into a tabular structure more compatible with geocoding (street types and prefixes), and formatted attribute data types.
 
-The data in the `streets` and `years` folders are street-by-street or year-by-year test sets to establish workflow.
+The data in the `streets` and `years` folders are street-by-street or year-by-year subsets to test and establish workflow.
