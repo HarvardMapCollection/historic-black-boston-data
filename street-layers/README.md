@@ -2,8 +2,6 @@
 
 Building a reliable historical geocoder for pre-1860s Boston requires careful, manual attention to detail, due to the lack of high-resolution map resources from that time, as well as the idiosyncratic nature of street development in Boston. 
 
-Contained here are two folders, `course-street-grid` and `streets-complete`. 
-
 The folder `course-street-grid` contains files from a first attempt at vectorizing streets from an 1852 map of Boston. This is a good basis for creating a geocoder, but more work is still required. 
 
 Many of the [line directions are backwards](https://docs.qgis.org/3.10/en/docs/user_manual/working_with_vector/editing_geometry_attributes.html#reverse-line), which impacts the ability to `geocode with a street layer` using QGIS plugin [MMQGIS](https://www.gislounge.com/how-to-geocode-addresses-using-qgis/), the line segments are not segmented enough to yield successful geocoding results, and the features contain no attributes for street numbering.
