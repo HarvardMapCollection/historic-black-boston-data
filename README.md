@@ -12,7 +12,7 @@ We have found the following maps and narrative resources helpful in our efforts 
 
 ### Narrative
 - [National Park Service's Historic Resource Study Boston African American National Historic Site](https://www.nps.gov/parkhistory/online_books/bost/hrs.pdf) (full-text search for the street)
-- [Ancient Pastures and Early Mansions](https://ia600603.us.archive.org/4/items/beaconhillitsanc00cham/beaconhillitsanc00cham.pdf) 
+- [Beacon Hill: Its Ancient Pastures and Early Mansions, by Alice Chamberlain (1925)](https://ia600603.us.archive.org/4/items/beaconhillitsanc00cham/beaconhillitsanc00cham.pdf) 
 
 ### Vector data
 -  In this repository - `street-layers/McIntyre-1852-working.geoJSON` (vectorized street layer from Boston 1852. Not perfect, but a good place to start)
