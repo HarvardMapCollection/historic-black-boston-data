@@ -4,6 +4,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "prefix": null, "name": "BELKNAP PLACE", "st_type": null, "start": 1, "end": 5 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -71.065119677839405, 42.360609459240798 ], [ -71.065459034655831, 42.360609062355415 ] ] ] } },
-{ "type": "Feature", "properties": { "prefix": null, "name": "BELKNAP", "st_type": "ST", "start": 1, "end": 37 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -71.065140826299455, 42.361155474027406 ], [ -71.06509013871802, 42.360089145912291 ] ] ] } }
+{ "type": "Feature", "properties": { "prefix": null, "name": "BELKNAP", "st_type": "ST", "start": 1, "end": 34 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -71.06513642345567, 42.361067435341482 ], [ -71.065096190121494, 42.360251936606197 ] ] ] } },
+{ "type": "Feature", "properties": { "prefix": null, "name": "BELKNAP", "st_type": null, "start": 35, "end": 37 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -71.065096190121494, 42.360251936606197 ], [ -71.065088452941836, 42.36008945583351 ], [ -71.065088452941836, 42.36008945583351 ] ] ] } }
 ]
 }
