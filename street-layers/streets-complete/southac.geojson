@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "southac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "prefix": null, "name": "SOUTHAC PLACE", "st_type": "PLACE", "start": 0, "end": 10 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -71.069438169506981, 42.360245562469785 ], [ -71.069398166178331, 42.360007002526473 ] ] ] } },
+{ "type": "Feature", "properties": { "prefix": null, "name": "SOUTHAC PLACE", "st_type": "PLACE", "start": 11, "end": 20 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -71.069397960698012, 42.360001769663398 ], [ -71.069382874118801, 42.359930423293335 ], [ -71.069382874118801, 42.359930423293335 ] ] ] } },
+{ "type": "Feature", "properties": { "prefix": null, "name": "SOUTHAC", "st_type": "", "start": 57, "end": 90 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -71.068639714544673, 42.360318623761017 ], [ -71.069974748234117, 42.360307432134341 ] ] ] } },
+{ "type": "Feature", "properties": { "prefix": null, "name": "SOUTHAC", "st_type": "", "start": 1, "end": 10 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -71.066437897823477, 42.360362562122873 ], [ -71.06679639211572, 42.360355694416121 ] ] ] } },
+{ "type": "Feature", "properties": { "prefix": null, "name": "SOUTHAC", "st_type": "", "start": 1, "end": 32 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -71.06693099916798, 42.360308994010232 ], [ -71.067325205535312, 42.360311741092929 ], [ -71.067663096707307, 42.360306246927529 ] ] ] } },
+{ "type": "Feature", "properties": { "prefix": null, "name": "SOUTHAC", "st_type": "", "start": 34, "end": 56 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -71.067898134032461, 42.360310540272359 ], [ -71.067880883888407, 42.360313676662187 ], [ -71.068597548964149, 42.36030740388253 ] ] ] } },
+{ "type": "Feature", "properties": { "prefix": null, "name": "SOUTHAC COURT", "st_type": "COURT", "start": 1, "end": 8 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -71.069311024789556, 42.360246684785075 ], [ -71.069254411191153, 42.359986082506651 ] ] ] } }
+]
+}

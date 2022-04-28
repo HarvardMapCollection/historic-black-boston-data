@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "belknap",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "prefix": null, "name": "BELKNAP PLACE", "st_type": null, "start": 1, "end": 5 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -71.065119677839405, 42.360609459240798 ], [ -71.065459034655831, 42.360609062355415 ] ] ] } },
+{ "type": "Feature", "properties": { "prefix": null, "name": "BELKNAP", "st_type": "ST", "start": 1, "end": 37 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -71.065140826299455, 42.361155474027406 ], [ -71.06509013871802, 42.360089145912291 ] ] ] } }
+]
+}
