@@ -6,8 +6,6 @@ Much of this geospatial work relies on resources developed by other organization
 
 We are also working to build a reliable historical geocoder, mostly around Beacon Hill and the West End.
 
-This repository includes files from these efforts.
-
 ## Helpful sources
 
 We have found the following maps and narrative resources helpful in our efforts to construct data historical street data on Beacon Hill.
@@ -21,17 +19,17 @@ We have found the following maps and narrative resources helpful in our efforts 
 
 ### Map layers (XYZ tile links)
 -  [1826 ward map @ Leventhal Map](https://collections.leventhalmap.org/search/commonwealth:wd376006p) 
-    - https://tiles.allmaps.org/maps/XgxpHtgsMjUM7MHG/{z}/{x}/{y}.png
+    - `https://tiles.allmaps.org/maps/XgxpHtgsMjUM7MHG/{z}/{x}/{y}.png`
 - [1852 map with street grid @ Harvard](https://digitalcollections.library.harvard.edu/catalog/990093967530203941)
-    - https://tiles.allmaps.org/maps/ugi17jWYxKQGGYMp/{z}/{x}/{y}.png
+    - `https://tiles.allmaps.org/maps/ugi17jWYxKQGGYMp/{z}/{x}/{y}.png`
 - [1867 Atlascope layer](https://atlascope.leventhalmap.org/)
-    - https://s3.us-east-2.wasabisys.com/urbanatlases/39999059012052/tiles/%7Bz%7D/%7Bx%7D/%7By%7D.png
+    - `https://s3.us-east-2.wasabisys.com/urbanatlases/39999059012052/tiles/%7Bz%7D/%7Bx%7D/%7By%7D.png`
 - [1882 Atlascope layer](https://atlascope.leventhalmap.org/)
-    - https://s3.us-east-2.wasabisys.com/urbanatlases/39999085945739/tiles/%7Bz%7D/%7Bx%7D/%7By%7D.png
+    - `https://s3.us-east-2.wasabisys.com/urbanatlases/39999085945739/tiles/%7Bz%7D/%7Bx%7D/%7By%7D.png`
 - [1883 Atlascope layer](https://atlascope.leventhalmap.org/)
-    - https://s3.us-east-2.wasabisys.com/urbanatlases/39999059010908/tiles/{z}/{x}/{y}.png
+    - `https://s3.us-east-2.wasabisys.com/urbanatlases/39999059010908/tiles/{z}/{x}/{y}.png`
 - [1890 Atlascope layer](https://atlascope.leventhalmap.org/)
-    - https://s3.us-east-2.wasabisys.com/urbanatlases/39999059011088/tiles/%7Bz%7D/%7Bx%7D/%7By%7D.png
+    - `https://s3.us-east-2.wasabisys.com/urbanatlases/39999059011088/tiles/%7Bz%7D/%7Bx%7D/%7By%7D.png`
 
 
 
