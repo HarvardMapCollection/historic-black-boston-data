@@ -1,6 +1,6 @@
 ## Street Layers
 
-Building a reliable historical geocoder for pre-1860s Boston requires careful, manual attention to detail, due to the lack of high-resolution map resources from that time, as well as the idiosyncratic ways nature of street development in Boston. 
+Building a reliable historical geocoder for pre-1860s Boston requires careful, manual attention to detail, due to the lack of high-resolution map resources from that time, as well as the idiosyncratic nature of street development in Boston. 
 
 Contained here are `course-street-grid` and `streets-complete`. 
 
