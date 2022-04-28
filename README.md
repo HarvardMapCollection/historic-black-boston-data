@@ -8,7 +8,7 @@ We are also working to build a reliable historical geocoder, mostly around Beaco
 
 ## Helpful sources
 
-We have found the following maps and narrative resources helpful in our efforts to construct data historical street data on Beacon Hill.
+We have found the following maps and narrative resources helpful in our efforts to construct historical street data on Beacon Hill.
 
 ### Narrative
 - [National Park Service's Historic Resource Study Boston African American National Historic Site](https://www.nps.gov/parkhistory/online_books/bost/hrs.pdf) (full-text search for the street)
