@@ -2,7 +2,7 @@
 
 Building a reliable historical geocoder for pre-1860s Boston requires careful, manual attention to detail, due to the lack of high-resolution map resources from that time, as well as the idiosyncratic nature of street development in Boston. 
 
-Contained here are `course-street-grid` and `streets-complete`. 
+Contained here are two folders, `course-street-grid` and `streets-complete`. 
 
 The folder `course-street-grid` contains files from a first attempt at vectorizing streets from an 1852 map of Boston. This is a good basis for creating a geocoder, but more work is still required. Many of the line directions are backwards, the line segments are too long and not fine enough to run a successful geocoding process, and the file contains no start and end numbering for each segment.
 - `McIntyre-first-draft.geojson` is the first draft of this historic street network file, abstracted from the [1852 McIntyre map in the Harvard digital collections](https://digitalcollections.library.harvard.edu/catalog/990093967530203941)
