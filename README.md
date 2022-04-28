@@ -15,7 +15,7 @@ We have found the following maps and narrative resources helpful in our efforts 
 - [Beacon Hill: Its Ancient Pastures and Early Mansions, by Alice Chamberlain (1925)](https://ia600603.us.archive.org/4/items/beaconhillitsanc00cham/beaconhillitsanc00cham.pdf) 
 
 ### Vector data
--  In this repository - `street-layers/McIntyre-1852-working.geoJSON` (vectorized street layer from Boston 1852. Not perfect, but a good place to start)
+-  In this repository - `street-layers/McIntyre-1852-working.geoJSON` (vectorized street layer from Boston 1852)
 
 ### Map layers (XYZ tile links)
 -  [1826 ward map @ Leventhal Map](https://collections.leventhalmap.org/search/commonwealth:wd376006p): `https://tiles.allmaps.org/maps/XgxpHtgsMjUM7MHG/{z}/{x}/{y}.png`
