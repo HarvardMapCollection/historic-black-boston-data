@@ -10,6 +10,10 @@ We are also working to build a reliable historical geocoder, mostly around Beaco
 
 We have found the following maps and narrative resources helpful in our efforts to construct historical street data on Beacon Hill.
 
+### City directories
+
+- [Wikipedia page](https://en.wikipedia.org/wiki/Boston_Directory)
+
 ### Narrative
 - [National Park Service's Historic Resource Study Boston African American National Historic Site](https://www.nps.gov/parkhistory/online_books/bost/hrs.pdf) (full-text search for the street)
 - [Beacon Hill: Its Ancient Pastures and Early Mansions, by Alice Chamberlain (1925)](https://ia600603.us.archive.org/4/items/beaconhillitsanc00cham/beaconhillitsanc00cham.pdf) 
