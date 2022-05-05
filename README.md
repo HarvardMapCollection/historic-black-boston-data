@@ -14,6 +14,11 @@ We have found the following maps and narrative resources helpful in our efforts 
 
 - [Wikipedia page](https://en.wikipedia.org/wiki/Boston_Directory)
 
+### City Census
+
+- [Scans of wards 4 & 6 from the City Archives](https://cityofboston.access.preservica.com/index.php?name=SO_5a8c4da4-b683-45b5-ba0c-7b68378c7d5f)
+- [Structured transcriptions from 1850 census wards 4 & 6 by Dave Weimer](https://drive.google.com/drive/folders/1BHq6W8xpOJ6j88CtP1ew-o8Gou4py68b?usp=sharing)
+
 ### Narrative
 - [National Park Service's Historic Resource Study Boston African American National Historic Site](https://www.nps.gov/parkhistory/online_books/bost/hrs.pdf) (full-text search for the street)
 - [Beacon Hill: Its Ancient Pastures and Early Mansions, by Alice Chamberlain (1925)](https://ia600603.us.archive.org/4/items/beaconhillitsanc00cham/beaconhillitsanc00cham.pdf) 
