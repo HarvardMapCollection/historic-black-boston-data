@@ -16,11 +16,12 @@ We have found the following maps and narrative resources helpful in our efforts 
 
 ### City Census
 
-### Wards 101
- - [Familysearch.org historical Boston ward guide](https://www.familysearch.org/en/wiki/Boston,_Suffolk_County,_Massachusetts_Genealogy#Historical_Wards)
-
 - [Scans of wards 4 & 6 from the City Archives](https://cityofboston.access.preservica.com/index.php?name=SO_5a8c4da4-b683-45b5-ba0c-7b68378c7d5f)
 - [Structured transcriptions from 1850 census wards 4 & 6 by Dave Weimer](https://drive.google.com/drive/folders/1BHq6W8xpOJ6j88CtP1ew-o8Gou4py68b?usp=sharing)
+
+
+### Wards 101
+ - [Familysearch.org historical Boston ward guide](https://www.familysearch.org/en/wiki/Boston,_Suffolk_County,_Massachusetts_Genealogy#Historical_Wards)
 
 ### Narrative
 - [National Park Service's Historic Resource Study Boston African American National Historic Site](https://www.nps.gov/parkhistory/online_books/bost/hrs.pdf) (full-text search for the street)
