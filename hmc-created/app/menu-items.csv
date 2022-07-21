@@ -1,5 +1,12 @@
 uid,display-name,topic,image-id ,rm-id1,rm-id2
-mi0001,David Walker’s Daily Route,dwappeal,ii0014,rm0006,rm0012
-mi0002,,,,,
-mi0003,,,,,
-mi0004,,,,,
+mi0001,David Walker,dwappeal,ii0014,rm0006,rm0012
+mi0002,Maria Stewart,dwappeal,ii0004,,
+mi0003,Phillis Wheatley Peters,dwappeal,,,
+mi0004,William Cooper Nell,dwappeal,ii0031,,
+mi0005,Robert Morris,robertsvcob,,,
+mi0006,Sarah Roberts,robertsvcob,ii0005,,
+mi0007,Benjamin Roberts,robertsvcob,,,
+mi0008,Boston Public Schools,robertsvcob,ii0006,,
+mi0009,Anthony Burns,bosvigilance,ii0022,,
+mi0010,Shadrach Minkins,bosvigilance,ii0016,,
+mi0011,Boston Vigilance Committee,bosvigilance,ii0023,,
