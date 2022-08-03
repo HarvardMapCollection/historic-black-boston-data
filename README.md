@@ -13,6 +13,7 @@ We have found the following maps and narrative resources helpful in our efforts 
 ### City directories
 
 - [Wikipedia page](https://en.wikipedia.org/wiki/Boston_Directory)
+- [Boston Athenaeum scans at the Internet Archive](https://archive.org/details/boston-athenaeum)
 
 ### City Census
 
