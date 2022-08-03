@@ -1,3 +1,28 @@
-uid,img,rm-id
-mi0001,,
-mi0002,,
+uid,img,rm-id,desc
+mi0001,"https://iiif.archivelab.org/iiif/bd-1849-50$168/2350,3200,2271,134/1024,/0/default.jpg",rm0026,JT Hilton in City Directory
+mi0002,"https://iiif.archivelab.org/iiif/drirvinghbartlet19bart$12/43,917,2625,1051/1024,/0/default.jpg",rm0025,Isabella Holmes in BVC treasurer's book
+mi0003,"https://iiif.archivelab.org/iiif/drirvinghbartlet19bart$12/30,2751,2581,147/1024,/0/default.jpg",rm0025,James Johnson in BVC treasurer's book
+mi0004,"https://iiif.archivelab.org/iiif/drirvinghbartlet19bart$12/40,2888,2581,200/1024,/0/default.jpg",rm0025,Samuel Flint in BVC treasurer's book
+mi0005,"https://iiif.archivelab.org/iiif/drirvinghbartlet19bart$24/53,2548,2581,143/1024,/0/default.jpg",rm0025,George Johnson in BVC treasurer's book
+mi0006,"https://iiif.archivelab.org/iiif/drirvinghbartlet19bart$24/60,2655,2581,143/1024,/0/default.jpg",rm0025,Benjamin Giger in BVC treasurer's book
+mi0007,"https://iiif.archivelab.org/iiif/drirvinghbartlet19bart$26/47,1647,2515,133/1024,/0/default.jpg",rm0025,David Smith in BVC treasurer's book
+mi0008,"https://iiif.archivelab.org/iiif/drirvinghbartlet19bart$28/33,347,2575,297/800,/0/default.jpg",rm0025,Clara Vaught in BVC treasurer's book
+mi0009,"https://iiif.archivelab.org/iiif/drirvinghbartlet19bart$38/0,2048,2591,137/1024,/0/default.jpg",rm0025,William Manix in BVC treasurer's book
+mi0010,"https://iiif.archivelab.org/iiif/drirvinghbartlet19bart$54/36,1116,2521,229/1024,/0/default.jpg",rm0025,Calvin Terry in BVC treasurer's book
+mi0011,"https://iiif.archivelab.org/iiif/drirvinghbartlet19bart$26/37,2651,2555,507/1024,/0/default.jpg",rm0025,Money raised for Minkins attorneys in BVC treasurer's book
+mi0012,"https://iiif.archivelab.org/iiif/drirvinghbartlet19bart$54/36,1925,2583,141/1024,/0/default.jpg",rm0025,CD Williams in BVC treasurer's book
+mi0013,"https://iiif.archivelab.org/iiif/drirvinghbartlet19bart$58/49,1650,2501,115/1024,/0/default.jpg",rm0025,Henry Tyler in BVC treasurer's book
+mi0014,"https://iiif.archivelab.org/iiif/drirvinghbartlet19bart$58/52,730,2501,115/1024,/0/default.jpg",rm0025,Adeline Skeene in BVC treasurer's book
+mi0015,"https://iiif.archivelab.org/iiif/drirvinghbartlet19bart$52/29,2357,2531,131/1024,/0/default.jpg",rm0025,James Watkins in BVC treasurer's book
+mi0016,"https://iiif.archivelab.org/iiif/drirvinghbartlet19bart$66/26,2282,2341,206/1024,/0/default.jpg",rm0025,Burrill Smith in BVC treasurer's book
+mi0017,"https://iiif.archivelab.org/iiif/drirvinghbartlet19bart$66/79,1444,2174,121/1024,/0/default.jpg",rm0025,Lewis Howard in BVC treasurer's book
+mi0018,"https://iiif.archivelab.org/iiif/drirvinghbartlet19bart$68/46,815,2540,164/1024,/0/default.jpg",rm0025,Maria Bell in BVC treasurer's book
+mi0019,"https://iiif.archivelab.org/iiif/drirvinghbartlet19bart$12/50,2051,2581,147/1024,/0/default.jpg",rm0025,Susan Burroughs in BVC treasurer's book
+mi0020,https://github.com/HarvardMapCollection/historic-black-boston-data/blob/main/hmc-created/app/images/mi0020.jpg?raw=true,rm0027,JB Smith Photo from 1874
+mi0021,"https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796c90p/1769,3586,1175,216/1024,/0/default.jpg",rm0034,George Rand Broadside
+mi0022,"https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5h7427432/125,205,716,251/1024,/0/default.jpg",rm0005,1855 Liberator Masthead
+mi0023,"https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5h7427432/827,832,2966,331/1024,/0/default.jpg",rm0005,1855 Liberator printer info
+mi0024,"https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71ph057/157,1072,688,300/1024,/0/default.jpg",rm0005,1833 Liberator Masthead
+mi0025,"https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71pp09c/340,1637,958,448/1024,/0/default.jpg",rm0005,1836 Liberator Masthead
+mi0026,"https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71px299/184,410,890,431/1024,/0/default.jpg",rm0005,1835 Liberator Masthead
+mi0027,"https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:8k71qb353/196,196,921,1001/1024,/0/default.jpg",rm0005,1842 Liberator Masthead
