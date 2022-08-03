@@ -30,7 +30,8 @@
 ## Finding Lat/Long for Schools
 1. Using the [1847 Reports of the Annual Visiting Committees of the Public Schools](https://archive.org/details/annualreport1847bost), identify the street on which the school was listed.
 2. Using the street to narrow down the rough area, use [Atlascope](https://atlascope.leventhalmap.org) to see if the school was still on that street in the 1860s or 1870s. 
-3. If so, compare that location to what if any information is on the [1852 McIntyre map](https://iiif.lib.harvard.edu/manifests/view/ids:12216977).
+3. If so, compare that location to what if any information is on the [1852 McIntyre map](https://iiif.lib.harvard.edu/manifests/view/ids:12216977). If not, skip to 7.
 4. Using [Open Street Map](https://www.openstreetmap.org), locate the same address or area as the historic site on the base layer of Atlascope and Open Street Map. 
 5. Right click and select Show Address.
 6. Copy and paste the lat/long into the columns of pois.csv.
+7. Try to locate the school along the street in the McIntyre map. If you find it, then look at the [georeferenced version of the McIntyre](https://hgl.harvard.edu/catalog/harvard-g3764-b6-1852-m3).
