@@ -34,10 +34,10 @@ We have found the following maps and narrative resources helpful in our efforts 
 ### Map layers (XYZ tile links)
 -  [1826 ward map @ Leventhal Map](https://collections.leventhalmap.org/search/commonwealth:wd376006p): `https://allmaps.xyz/maps/e5e7041793a90b4f/{z}/{x}/{y}.png`
 - [1852 map with street grid @ Harvard](https://digitalcollections.library.harvard.edu/catalog/990093967530203941): `https://tiles.allmaps.org/maps/XgxpHtgsMjUM7MHG/{z}/{x}/{y}.png`
-- [1867 Atlascope layer](https://atlascope.leventhalmap.org/): `https://s3.us-east-2.wasabisys.com/urbanatlases/39999059012052/tiles/%7Bz%7D/%7Bx%7D/%7By%7D.png`
-- [1882 Atlascope layer](https://atlascope.leventhalmap.org/): `https://s3.us-east-2.wasabisys.com/urbanatlases/39999085945739/tiles/%7Bz%7D/%7Bx%7D/%7By%7D.png`
+- [1867 Atlascope layer](https://atlascope.leventhalmap.org/): `https://s3.us-east-2.wasabisys.com/urbanatlases/39999059012052/tiles/{z}/{x}/{y}.png`
+- [1882 Atlascope layer](https://atlascope.leventhalmap.org/): `https://s3.us-east-2.wasabisys.com/urbanatlases/39999085945739/tiles/{z}/{x}/{y}.png`
 - [1883 Atlascope layer](https://atlascope.leventhalmap.org/): `https://s3.us-east-2.wasabisys.com/urbanatlases/39999059010908/tiles/{z}/{x}/{y}.png`
-- [1890 Atlascope layer](https://atlascope.leventhalmap.org/): `https://s3.us-east-2.wasabisys.com/urbanatlases/39999059011088/tiles/%7Bz%7D/%7Bx%7D/%7By%7D.png`
+- [1890 Atlascope layer](https://atlascope.leventhalmap.org/): `https://s3.us-east-2.wasabisys.com/urbanatlases/39999059011088/tiles/{z}/{x}/{y}.png`
 
 
 
