@@ -41,8 +41,8 @@
 - Copy the link at the bottom of the page. This is the link to put in the Airtable.
 
 ### Manifest Patterns
-- Digital commonwealth: https://www.digitalcommonwealth.org/search/commonwealth:668305767/manifest
-- Internet Archive: https://iiif.archivelab.org/iiif/<identifier>/manifest.json
+- Digital commonwealth: https://www.digitalcommonwealth.org/search/commonwealth:668305767/manifest. Note: I have trouble getting the Bodleian tool to find the right iiif canvas link. So I find it manually in the manifest. Sequences -> [number of the canvas] -> images -> resource -> service -> id. 
+- Internet Archive: https://iiif.archivelab.org/iiif/b29000427_0001/manifest.json
 
 # Example h1
 
