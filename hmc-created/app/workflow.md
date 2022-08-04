@@ -17,7 +17,7 @@
 
 ## Useful resources for finding control points
 - [Numbering for Washington Street in 1851](https://archive.org/details/bd-1851/page/60/mode/1up)
-- [Numbering for some downtown streets in 1851])https://archive.org/details/bd-1851/page/61/mode/1up)
+- [Numbering for some downtown streets in 1851](https://archive.org/details/bd-1851/page/61/mode/1up)
 - [Kathryn Grover and Janine V. da Silva, "Historic Resource Study, Boston African Ameican National History Site," 31 December 2002](https://www.nps.gov/parkhistory/online_books/bost/hrs.pdf)
 
 ## Finding Lat/Long for Schools
@@ -40,8 +40,9 @@
 - Crop to the area of your choice
 - Copy the link at the bottom of the page. This is the link to put in the Airtable.
 
+### Manifest Patterns
 - Digital commonwealth: https://www.digitalcommonwealth.org/search/commonwealth:668305767/manifest
-
+- Internet Archive: https://iiif.archivelab.org/iiif/<identifier>/manifest.json
 
 # Example h1
 
