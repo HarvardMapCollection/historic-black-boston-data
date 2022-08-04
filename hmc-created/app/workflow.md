@@ -28,6 +28,21 @@
 5. Right click to copy the WGS84 coordinates.
 6. Copy and paste the lat/long into the columns of pois.csv.
 
+## Getting IIIF links
+1. Visit https://digital.bodleian.ox.ac.uk/manifest-editor/#/?_k=5v9mdg
+2. Copy in the IIIF manifest link: 
+- Example: https://iiif.lib.harvard.edu/manifests/drs:486018367
+- https://iiif.lib.harvard.edu/manifests/ids:1042518
+3. If it’s a book, navigate to the right page
+4. Under canvas metadata, go to Image URI. If you want the full picture, copy the whole link. If you want to zoom in to a particular crop, copy the whole link that ends right before /full 
+- Example https://ids.lib.harvard.edu/ids/iiif/486018377/full/full/0/default.jpg copy just https://ids.lib.harvard.edu/ids/iiif/486018377
+- Paste that link into the end of the URL for the IIIF Image Manipulation Tool: https://jbhoward-dublin.github.io/IIIF-imageManipulation/index.html?imageID=https://ids.lib.harvard.edu/ids/iiif/486018377
+- Crop to the area of your choice
+- Copy the link at the bottom of the page. This is the link to put in the Airtable.
+
+- Digital commonwealth: https://www.digitalcommonwealth.org/search/commonwealth:668305767/manifest
+
+
 # Example h1
 
 - example bullet points
