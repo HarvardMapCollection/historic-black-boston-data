@@ -31,10 +31,10 @@ mi0029,"https://iiif.archivelab.org/iiif/keytouncletomsca00sto$8/713,3916,1318,4
 mi0030,"https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:70796d06c/0,0,4955,6483/1024,/0/default.jpg",rm0037,"1851 Broadside, maybe by J. H & F. F. Farwell"
 mi0031,"https://iiif.archivelab.org/iiif/proslaverypolicy00good$22/175,3352,1067,376/1024,/0/default.jpg",rm0038,1856 Anti-Slavery campaign pamphlet printed by William White
 mi0032,"https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:gb19h0577/1944,268,570,819/1024,/0/default.jpg",rm0039,1844 article describing the vote to boycott the Smith School
-mi0033,,,
-mi0034,,,
-mi0035,,,
-mi0036,,,
+mi0033,https://ids.lib.harvard.edu/ids/iiif/486018377/full/full/0/default.jpg,rm0040,"Title page of Walker's Appeal, 1829"
+mi0034,"https://ids.lib.harvard.edu/ids/iiif/11735119/531,62,3022,3677/1024,/0/default.jpg",rm0041,African Lodge certificate.
+mi0035,"https://iiif.archivelab.org/iiif/meditationsfromp00stew$5/62,135,1862,1891/1024,/0/default.jpg",rm0042,Title page of 1879 edition of Maria Stewart
+mi0036,https://github.com/HarvardMapCollection/historic-black-boston-data/blob/main/hmc-created/app/images/mi0036.jpg?raw=true,rm0043,Cover of Maria Stewart's 1835 book
 mi0037,,,
 mi0038,,,
 mi0039,,,
