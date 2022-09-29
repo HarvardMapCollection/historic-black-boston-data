@@ -35,7 +35,7 @@ rm0030,https://iiif.lib.harvard.edu/manifests/view/drs:493756192$1i,"Narrative o
 rm0031,https://iiif.lib.harvard.edu/manifests/view/drs:492897823$1i,"William Wells Brown letter to Francis William Bird, 19 April 1849.",Harvard Library,Letters
 rm0032,https://iiif.lib.harvard.edu/manifests/view/drs:493297497$1i,"Sketches of slave life: or, Illustrations of the 'peculiar institution.'., 1855",Harvard Library,Book
 rm0033,https://www.digitalcommonwealth.org/search/commonwealth:70796c87c,"Kidnapping again!! : A man was stolen last night by the Fugitive Slave Bill Commissioner, 1854",Boston Public Library,Broadside
-rm0034,https://www.digitalcommonwealth.org/search/commonwealth:70796c89x,Presentation and farewell meeting!! ,Boston Public Library,Broadside
+rm0034,https://www.digitalcommonwealth.org/search/commonwealth:70796c89x,Presentation and farewell meeting!! … to William Wells Brown,Boston Public Library,Broadside
 rm0035,https://iiif.lib.harvard.edu/manifests/view/drs:492107739$1i,"Order of services at the first anniversary of the kidnapping of Thomas Sims, April 12, 1852",Harvard Library,Broadside
 rm0036,https://archive.org/details/keytouncletomsca00sto,"Harriet Beecher Stowe, A Key to Uncle Tom's Cabin, 1853",Boston Public Library,Book
 rm0037,https://www.digitalcommonwealth.org/search/commonwealth:70796d053,"The plot exploded! : John H. Pearson & the bloodhounds, 1851",Boston Public Library,Broadside
@@ -55,8 +55,8 @@ rm0049,https://archive.org/details/bd-1852,"The Boston Directory, 1852",Boston A
 rm0050,http://hdl.loc.gov/loc.pnp/ppmsca.53262,"Carte de Visite of Leonard Grimes, 1860",Library of Congress,Photographs
 rm0051,https://cdm.bostonathenaeum.org/digital/collection/p16057coll52,Harriet Hayden Photograph Albums,Boston Athenaeum,Photographs
 rm0052,https://cdm.bostonathenaeum.org/digital/collection/p16057coll37/id/1292,"Declaration of sentiments of the colored citizens of Boston, on the fugitive slave bill!!!",Boston Athenaeum,Broadside
-rm0053,,,,
-rm0054,,,,
+rm0053,https://archive.org/details/reportofminority00bost,"Report of the minority of the committee : upon the petitions of John T. Hilton and others, colored citizens of Boston, praying for the abolition of the Smith School, and that colored children may be permitted to attend the other schools of the city",Boston Public Library,Book
+rm0054,https://archive.org/details/equalschoolsfora00clar,"Equal schools for all without regard to color or race, 1851",Boston Public Library,Broadside
 rm0055,,,,
 rm0056,,,,
 rm0057,,,,
