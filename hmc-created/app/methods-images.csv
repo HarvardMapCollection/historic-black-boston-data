@@ -54,18 +54,18 @@ mi0052,"https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:gb19h437k/1405,
 mi0053,"https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:5h742775b/2042,339,602,890/1024,/0/default.jpg",rm0005,Description of the Massasoit Guards in the 17 August 1855 issue of The Liberator
 mi0054,"https://iiif.archivelab.org/iiif/bd-1852$61/103,2418,690,76/1024,/0/default.jpg",rm0049,John Coburn in 1852 Boston Directory
 mi0055,"https://iiif.archivelab.org/iiif/meditationsfromp00stew$5/0,0,2081,3532/1024,/0/default.jpg",rm0042,"Title page of Meditations from the pen of Mrs. Maria W. Stewart, (widow of the late James W. Stewart,) now matron of the Freedmen's Hospital, and presented in 1832 to the First African Baptist Church and Society of Boston, Mass, 1879"
-mi0056,,,
-mi0057,,,
-mi0058,,,
-mi0059,,,
-mi0060,,,
-mi0061,,,
-mi0062,,,
-mi0063,,,
-mi0064,,,
-mi0065,,,
-mi0066,,,
-mi0067,,,
+mi0056,"https://iiif.archivelab.org/iiif/bd-1825$301/136,2525,1362,70/1024,/0/default.jpg",rm0055,"Frederick Brinsley in Boston Directory, 1825"
+mi0057,"https://iiif.archivelab.org/iiif/bd-1825$304/50,2475,1453,118/1024,/0/default.jpg",rm0055,"George Holmes in Boston Directory, 1825"
+mi0058,"https://iiif.archivelab.org/iiif/bd-1825$309/163,869,1093,87/1024,/0/default.jpg",rm0055,"David Walker in Boston Directory, 1825"
+mi0059,"https://iiif.archivelab.org/iiif/bd-1827$313/128,8097,4506,232/1024,/0/default.jpg",rm0056,"David Walker in Boston Directory, 1827"
+mi0060,"https://iiif.archivelab.org/iiif/bd-1828$334/177,3491,3605,241/1024,/0/default.jpg",rm0057,"John Scarlett in Boston Directory, 1828"
+mi0061,"https://ids.lib.harvard.edu/ids/iiif/493269409/0,0,1502,2587/1024,/0/default.jpg",rm0058,"Title page of David Walker/s Appeal, 2nd Edition"
+mi0062,"https://iiif.archivelab.org/iiif/bd-1829-c.-2$296/532,5689,2710,177/1024,/0/default.jpg",rm0059,"John Eli in Bosotn Directory, 1829"
+mi0063,"https://iiif.archivelab.org/iiif/bd-1826$333/512,4875,4077,244/1024,/0/default.jpg",rm0060,"David Walker in Boston Directory, 1826"
+mi0064,"https://iiif.archivelab.org/iiif/bd-1826$329/392,2885,4334,338/1024,/0/default.jpg",rm0060,"George Holmes in Boston Directory, 1826"
+mi0065,"https://iiif.archivelab.org/iiif/bd-1831$373/249,3479,4062,285/1024,/0/default.jpg",rm0061,"Frederick Brinsley in Boston Directory, 1831"
+mi0066,https://github.com/HarvardMapCollection/historic-black-boston-data/blob/main/hmc-created/app/images/mi0066.jpg?raw=true,rm0062,Freedom Journal's masthead
+mi0067,"https://ids.lib.harvard.edu/ids/iiif/490230703/129,224,1158,535/1024,/0/default.jpg",rm0063,"Park Street Incident in David Walker's Appeal, 3rd Edition"
 mi0068,,,
 mi0069,,,
 mi0070,,,
