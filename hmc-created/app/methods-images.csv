@@ -71,10 +71,10 @@ mi0069,"https://ids.lib.harvard.edu/ids/iiif/490230643/0,0,1502,2587/1024,/0/def
 mi0070,"https://ids.lib.harvard.edu/ids/iiif/493648780/161,196,1153,1425/1024,/0/default.jpg",rm0065,Frontispiece of the Phillis Wheatley Peters
 mi0071,"https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:dv143d90z/1170,2573,1085,333/1024,/0/default.jpg",rm0066,John T. Hilton's signature on a letter to William Lloyd Garrison
 mi0072,"https://ids.lib.harvard.edu/ids/iiif/46312864/190,200,1401,1262/1024,/0/default.jpg",rm0067,"Title page of Letters of Phillis Wheatley, 1864"
-mi0073,,,
-mi0074,,,
-mi0075,,,
-mi0076,,,
+mi0073,"https://iiif.archivelab.org/iiif/191229727.4837.emory.edu$7/171,312,1198,1616/1024,/0/default.jpg",rm0068,"Title page of Memoir and Poems of Phillis Wheatley, 3rd Edition"
+mi0074,https://github.com/HarvardMapCollection/historic-black-boston-data/blob/main/hmc-created/app/images/mi0074.jpg?raw=true,rm0069,"Title page of Memoir and Poems of Phillis Wheatley, 2nd Edition"
+mi0075,"https://iiif.archivelab.org/iiif/incidentsinlifeo1861jaco$9/0,0,2656,4396/1024,/0/default.jpg",rm0070,Title page of Incidents in the Life of a Slave Girl
+mi0076,"https://iiif.archivelab.org/iiif/coloredpatriotso00nell$7/0,0,2907,4844/1024,/0/default.jpg",rm0048,"Title Page of  The Colored Patriots of the American Revolution: With Sketches of Several Distinguished Colored Persons, 1855"
 mi0077,,,
 mi0078,,,
 mi0079,,,
