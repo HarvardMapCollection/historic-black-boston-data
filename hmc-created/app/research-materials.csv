@@ -30,7 +30,7 @@ rm0028,https://iiif.lib.harvard.edu/manifests/view/drs:491658618$1i,"Boston Vigi
 rm0029,https://iiif.lib.harvard.edu/manifests/view/drs:492898001$1i,2 letters from Lewis Hayden to Wendell Phillips; 1848-1870. ,Harvard Library,Letters
 rm0030,https://iiif.lib.harvard.edu/manifests/view/drs:493756192$1i,"Narrative of William W. Brown, a fugitive slave, 1848",Harvard Library,Book
 rm0031,https://iiif.lib.harvard.edu/manifests/view/drs:492897823$1i,"William Wells Brown letter to Francis William Bird, 19 April 1849.",Harvard Library,Letters
-rm0032,https://iiif.lib.harvard.edu/manifests/view/drs:493297497$1i,"Sketches of slave life: or, Illustrations of the 'peculiar institution.'., 1855",Harvard Library,Book
+rm0032,https://digitalcollections.library.harvard.edu/catalog/990063991530203941,"Sketches of slave life: or, Illustrations of the 'peculiar institution.'., 1855",Harvard Library,Book
 rm0033,https://www.digitalcommonwealth.org/search/commonwealth:70796c87c,"Kidnapping again!! : A man was stolen last night by the Fugitive Slave Bill Commissioner, 1854",Boston Public Library,Broadside
 rm0034,https://www.digitalcommonwealth.org/search/commonwealth:70796c89x,Presentation and farewell meeting!! … to William Wells Brown,Boston Public Library,Broadside
 rm0035,https://iiif.lib.harvard.edu/manifests/view/drs:492107739$1i,"Order of services at the first anniversary of the kidnapping of Thomas Sims, April 12, 1852",Harvard Library,Broadside
@@ -78,8 +78,8 @@ rm0075,https://digitalcollections.library.harvard.edu/catalog/990047186100203941
 rm0076,https://digitalcollections.library.harvard.edu/catalog/990034475700203941,"William Wells Brown, The Negro in the American rebellion. his heroism and his fidelity, 1867",Harvard Library,Book
 rm0077,https://digitalcollections.library.harvard.edu/catalog/990042816630203941,"William Wells Brown, The black man. his antecedents, his genius, and his achievements, 1863",Harvard Library,Book
 rm0078,https://digitalcollections.library.harvard.edu/catalog/990095307740203941,"William Wells Brown, Narrative of William W. Brown, a fugitive slave, 1848",Harvard Library,Book
-rm0079,,,,
-rm0080,,,,
+rm0079,https://archive.org/details/lightandtruthcoll00lewirich,"R. B. Lewis, Light and truth; collected from the Bible and ancient and modern history, containing the universal history of the colored and the Indian race, from the creation of the world to the present time, 1844",University of California Libraries,Book
+rm0080,https://archive.org/details/bd-1853,"Boston Directory, 1853",Boston Athenaeum,City Directory
 rm0081,,,,
 rm0082,,,,
 rm0083,,,,
