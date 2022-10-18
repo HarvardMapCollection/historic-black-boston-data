@@ -1,7 +1,7 @@
 uid,landing,title,institution,type
 rm0001,http://fair-use.org/the-liberator/,The Liberator,Fair Use Repository,Newspaper
 rm0002,https://archive.org/details/twentyfamiliesof00dorm,"Twenty Families of Color in Massachusetts, 1742-1998",Internet Archive,Book
-rm0003,https://babel.hathitrust.org/cgi/pt?id=njp.32101068784220&view=1up&seq=7,"Proceedings of the One Hundreth Anniversary of the Granting of Warrant 459 to African Lodge, Boston, 1885",Harvard Library,Proceedings
+rm0003,https://babel.hathitrust.org/cgi/pt?id=njp.32101068784220&view=1up&seq=7,"Proceedings of the One Hundreth Anniversary of the Granting of Warrant 459 to African Lodge, Boston, 1885",Harvard Library,Book
 rm0004,https://cdm.bostonathenaeum.org/digital/collection/p16057coll56,Robert Morris Papers,Boston Atheneum,Archival Papers
 rm0005,https://www.digitalcommonwealth.org/collections/commonwealth:9w032b61n,The Liberator,Boston Public Library,Newspaper
 rm0006,https://www.wisconsinhistory.org/Records/Article/CS4415,Freedom's Journal Online Archive,Wisconsin Historical Society,Newspaper
@@ -92,7 +92,7 @@ rm0089,https://ark.digitalcommonwealth.org/ark:/50959/4m90fk28r,Anthony Burns,Bo
 rm0090,https://gigi.mwa.org/imagearchive/fileName/435991__OS_AnthonyBurns.tif,George Dubois sketch of Anthony Burns procession,American Antiquarian Society,Drawing
 rm0091,https://www.digitalcommonwealth.org/search/commonwealth:70796c41r,The man is not bought! :,Boston Public Library,Broadside
 rm0092,https://www.digitalcommonwealth.org/search/commonwealth:70796c85t,Fellow citizens of Massachusetts! : Read and consider,Boston Public Library,Broadside
-rm0093,,,,
+rm0093,https://www.masshist.org/database/viewer.php?item_id=2455,"Check in the amount of $676, used for the purchase of Anthony Burns, 1855 ",Massachusetts Historical Society,Ephemera
 rm0094,,,,
 rm0095,,,,
 rm0096,,,,
